@@ -2,12 +2,12 @@ first_number = 3
 
 second_number = 4
 
-def addition(first_number, second_number) 
+def addition
   sum = first_number + second_number
   puts sum
 end
 
-def subtraction(first_number, second_number) 
+def subtraction 
   first_number - second_number 
 end
 
