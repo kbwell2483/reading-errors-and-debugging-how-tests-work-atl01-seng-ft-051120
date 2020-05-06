@@ -8,13 +8,13 @@ def addition
 end
 
 def subtraction 
-  first_number - second_number 
+  sum = first_number - second_number 
 end
 
-def multiplication(first_number, second_number) 
-  first_number  / second_number 
+def multiplication
+  sum = first_number  * second_number 
 end
 
-def division(first_number, second_number) 
-  first_number  / second_number 
+def division 
+  sum = first_number  / second_number 
 end
