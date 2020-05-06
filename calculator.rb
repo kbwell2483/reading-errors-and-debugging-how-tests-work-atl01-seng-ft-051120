@@ -6,14 +6,14 @@ def addition(first_number, second_number)
   first_number  + second_number 
 end
 
-def
-  sum = first_number - second_number
+def subtraction(first_number, second_number) 
+  first_number - second_number 
 end
 
-def
-  sum = first_number * second_number
+def multiplication(first_number, second_number) 
+  first_number  / second_number 
 end
 
-def
-  sum = first_number / second_number
+def division(first_number, second_number) 
+  first_number  / second_number 
 end
