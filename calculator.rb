@@ -4,7 +4,6 @@ second_number = 4
 
 def addition
   sum = first_number + second_number
-  puts sum
 end
 
 def subtraction 
